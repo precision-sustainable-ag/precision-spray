@@ -34,7 +34,7 @@ else:
     gain_db = 19.0
 
 """YOLO setup"""
-model_path = "best_1344x896_v0.2_nano.engine"  # Path to YOLO model
+model_path = "YOLO_models/best_1344x896_v0.2_nano.engine"  # Path to YOLO model
 confidence = 0.2 #confidence threshold to process results
 
 '''Default settings'''
